@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-using namespace  std;
+using namespace std;
 int g,antonCount,danikCount;
 string s,winner;       
 int main()
